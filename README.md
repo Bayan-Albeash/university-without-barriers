@@ -41,5 +41,4 @@ Contributions are welcome. Please open issues for bugs or feature requests and s
 ## License
 See the LICENSE file in this repository for license details.
 
-## Contact
-Project maintainer: Bayan Albeash — https://github.com/Bayan-Albeash
+
