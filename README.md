@@ -1,2 +1,45 @@
-AccessibleEdu is an inclusive educational web platform designed to empower individuals with disabilities to pursue their studies independently and effectively. Our mission is to break down barriers in online learning by incorporating advanced accessibility features, ensuring that everyone—regardless of physical, visual, auditory, or cognitive challenges—can access high-quality educational resources. This platform supports a wide range of subjects, from basic literacy to advanced topics, with tools tailored for seamless navigation and interaction.
-Built with accessibility at its core, AccessibleEdu complies with WCAG 2.1 standards and integrates assistive technologies like screen readers, voice commands, and customizable interfaces.
+# University Without Barriers
+
+A web application that promotes inclusive access to higher education by providing an accessible, user-friendly platform for course discovery, enrollment, and student support.
+
+## Key features
+- Accessible UI with keyboard navigation and screen-reader-friendly markup
+- Course catalog and search with filtering
+- Enrollment/workflow for students and staff
+- Responsive design for desktop and mobile
+- Internationalization-ready (multi-language support)
+- Simple admin interface for managing courses and users
+
+## Goals
+- Remove barriers to accessing university resources
+- Follow accessibility best practices (WCAG)
+- Provide a lightweight, maintainable codebase for easy contribution
+
+## Quick start
+
+Prerequisites
+- Node.js (LTS)
+- pnpm or npm
+
+Install and run locally
+```bash
+pnpm install
+pnpm dev
+# or with npm
+# npm install
+# npm run dev
+```
+
+Build for production
+```bash
+pnpm build
+```
+
+## Contributing
+Contributions are welcome. Please open issues for bugs or feature requests and submit pull requests for changes.
+
+## License
+See the LICENSE file in this repository for license details.
+
+## Contact
+Project maintainer: Bayan Albeash — https://github.com/Bayan-Albeash
